@@ -8,7 +8,7 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : Chulapa 101    #default["repository_name"]
+title                   : Marie Johnson    #default["repository_name"]
 title_separator         :     #default [" | "]
 subtitle                : Chulapa Jekyll Theme starter pack    #default [your-repository-tagline]  
 description             : Chulapa Jekyll Theme starter pack #default [your-repository-tagline]
@@ -18,7 +18,7 @@ words_per_minute        :     #default[200]
 timezone                :     #"Europe/Madrid ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # SEO
-og_image                :     #default[author.avatar (see below)] or [github-avatar]
+og_image                :     https://github.com/mariejohnson.png
 twitter_site            :     #Avoid @
 author:
   name                  :  Marie Johnson   # Name Surname Company
@@ -129,10 +129,13 @@ footer:
   links:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-    - label: "RSS"
-      icon: "fa fa-rss"
-      url:  "./atom.xml"
+      url   : https://github.com/mariejohnson # A link or email: https://twitter.com/jack, mail@example.com
+    - label : Google Scholar # Label
+      icon  : fab fa-graduation-cap
+      url   : https://scholar.google.com/citations?user=hQcVnaAAAAAJ&hl=en  
+#    - label: "RSS"
+#      icon: "fa fa-rss"
+#      url:  "./atom.xml"
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings
