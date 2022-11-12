@@ -141,7 +141,7 @@ chulapa-skin:
   skin          : academia
   autothemer    :  #false # Bool: Use autotheming
   vars          :    
-    # primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
+    primary     : red #default ["#007bff"] - Bootstrap blue
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
