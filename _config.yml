@@ -112,7 +112,7 @@ navbar:
       - title : Watershed Analysis
         url   : /current-skin
       - title : Summer Heat in Missoula
-        url   : /tags   
+        url   : /summerHeat   
 
 #  - title   : Docs
 #    url     : https://dieghernan.github.io/chulapa/docs/01-install
