@@ -95,20 +95,25 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
+  - title   : About Me # Label
     url     : /blog/ # url	
-  - title   : Projects
+  - title   : Tags
     url     : /tags
-#  - title   : Extras
-#    child   :
-#      - title : Tags
-#        url   : /tags
-#      - title : Categories
-#        url   : /categories
-#      - title : Archive
-#        url   : /archive
-#      - title : Current skin
-#        url   : /current-skin
+  - title   : Projects
+    child   :
+      - title : Fire Recovery Shiny App
+        url   : /current-skin
+      - title : Wildfire Boundaries
+        url   : /categories
+      - title : AppEEARS
+        url   : /archive
+      - title : Fish Passage
+        url   : /current-skin
+      - title : Watershed Analysis
+        url   : /current-skin
+      - title : Summer Heat in Missoula
+        url   : /tags   
+
 #  - title   : Docs
 #    url     : https://dieghernan.github.io/chulapa/docs/01-install
 #  - title   : Use this template
