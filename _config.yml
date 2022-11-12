@@ -140,10 +140,6 @@ chulapa-skin:
   #highlight     :  # default["default"]
   skin          : academia
   #autothemer    :  #false # Bool: Use autotheming
-  vars        :
-    body-bg: "#000"
-    body-color: "#111"
-    font-family-base: "Montserrat"
   #vars          :    
     #primary     : red #default ["#007bff"] - Bootstrap blue
     
