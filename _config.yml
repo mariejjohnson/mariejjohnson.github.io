@@ -138,8 +138,8 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     :  # default["default"]
-  skin         :  # Academia
-  autothemer    :  true # Bool: Use autotheming
+  skin         : Academia
+  autothemer    :  false # Bool: Use autotheming
   vars          :    
     primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
     
