@@ -1,5 +1,5 @@
 ---
-layout: indexcategory
+layout: default
 title: "Summer Heat at UM"
 # include_collection: cheatsheet
 permalink: /summerHeat
