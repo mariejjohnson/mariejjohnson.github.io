@@ -1,6 +1,6 @@
 ---
 layout: cloudtag
-title: Tags
+title: Projects
 permalink: /tags
 excerpt: Tags on this theme
 show_breadcrumb   : true
