@@ -2,7 +2,7 @@
 layout: default
 title: Marie Johnson
 header_type: hero
-# subtitle: Starter pack
+subtitle: PhD Student - Systems Ecology - University of Montana
 ---
 Well, hey there - glad you made it!
 
