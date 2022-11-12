@@ -131,7 +131,7 @@ footer:
       icon  : fab fa-github # Fontawesome 5 icon
       url   : https://github.com/mariejohnson # A link or email: https://twitter.com/jack, mail@example.com
     - label : Google Scholar # Label
-      icon  : fab fa-graduation-cap
+      icon  : fab fa-regular fa-graduation-cap
       url   : https://scholar.google.com/citations?user=hQcVnaAAAAAJ&hl=en  
 #    - label: "RSS"
 #      icon: "fa fa-rss"
