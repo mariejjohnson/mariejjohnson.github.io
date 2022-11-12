@@ -1,8 +1,8 @@
 ---
+layout: default
 title: Marie Johnson
-layout: page
-aside: true
-feature_image: "assets/images/IMG_5030.JPG"
+header_type: hero
+# subtitle: Starter pack
 ---
 Well, hey there - glad you made it!
 
