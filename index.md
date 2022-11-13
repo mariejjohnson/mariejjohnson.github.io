@@ -4,7 +4,7 @@ title: Marie Johnson
 header_type: hero
 subtitle: PhD Student - Systems Ecology - University of Montana
 ---
-<img src="https://mariejjohnson.github.io/assets/images/ski.jpg" >
+<img src="https://github.com/mariejohnson.png" >
 
 Well, hey there - glad you made it!
 
