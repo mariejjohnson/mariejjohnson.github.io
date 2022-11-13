@@ -114,7 +114,7 @@ navbar:
       - title : Summer Heat in Missoula
         url   : /summerHeat   
   - title   : Scholar
-    url     : /https://scholar.google.com/citations?user=hQcVnaAAAAAJ&hl=en
+    url     : https://scholar.google.com/citations?user=hQcVnaAAAAAJ&hl=en
   - title   : '<i class="fab fa-github" aria-hidden="true"></i> Github repo'
     url     : https://github.com/mariejohnson
 #  - title   : Docs
