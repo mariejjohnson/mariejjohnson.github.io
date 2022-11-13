@@ -97,7 +97,7 @@ navbar:
   nav:
   - title   : About Me # Label
     url     : /blog/ # url	
-  - title   : Tags
+  - title   : CV
     url     : /tags
   - title   : Projects
     child   :
@@ -113,7 +113,10 @@ navbar:
         url   : /current-skin
       - title : Summer Heat in Missoula
         url   : /summerHeat   
-
+  - title   : Scholar
+    url     : /https://scholar.google.com/citations?user=hQcVnaAAAAAJ&hl=en
+  - title   : '<i class="fab fa-github" aria-hidden="true"></i> Github repo'
+    url     : https://github.com/mariejohnson
 #  - title   : Docs
 #    url     : https://dieghernan.github.io/chulapa/docs/01-install
 #  - title   : Use this template
