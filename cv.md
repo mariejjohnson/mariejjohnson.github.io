@@ -9,30 +9,10 @@ marie3.johnson AT umconnect.umt.edu
 [ORCiD](https://orcid.org/0000-0002-7705-5670)  
 [GitHub](https://github.com/mariejohnson)
 
-<p style="margin-left:10%; margin-right:10%;">This is the text that I want to indent. I want to create a margin on both sides so that it doesn't go the full width of the page. Don't ask me why I want to do this. I just do!</p>
+**EDUCATION**
+---------
+Current: <p style="margin-left:10%; margin-right:10%;"><b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana</p>
 
-<body>
-    <div>
-	    <p style="margin-left:10%; margin-right:10%;">
-	    	This paragraph is written to apply indentation on it. In Html
-            indentation is something that is not needed because browsers automatically
-            removes the extra white spaces but if you want to make your text look good
-            for the reader then indentation is useful for you.</p>
-    </div>
-</body>
-
-``python
-print("hello world!")
-``
-<p>This is a normal paragraph:</p>
-
-## Flavored V1
-
-<div style="background-color: rgb(255,255,255);"> 
-
-	Ph.D. student. Systems Ecology.
-
-</div>
 
 
 
