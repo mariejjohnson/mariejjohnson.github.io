@@ -90,11 +90,11 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : About Me # Label
-    url     : /blog/ # url	
+    url     : /aboutme # /blog/
   - title   : CV
-    url     : /tags
+    url     : /cv
   - title   : Research
-    url     : /tags 
+    url     : /research 
   - title   : Projects
     child   :
       - title : Fire Recovery Shiny App
