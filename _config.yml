@@ -1,12 +1,6 @@
 remote_theme: dieghernan/chulapa
 
-# Find errors on this file with http://www.yamllint.com/
-
-# Chulapa docs: https://dieghernan.github.io/chulapa/docs/02-config
-
 # A. Site Settings /SEO options
-# Overall options for your site, would affect your site SEO
-# Default values are explained
 locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
 title                   : Marie Johnson    #default["repository_name"]
 title_separator         :     #default [" | "]
@@ -135,9 +129,6 @@ footer:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
       url   : https://github.com/mariejohnson # A link or email: https://twitter.com/jack, mail@example.com
-    - label : Google Scholar # Label
-      icon  : fab fa-regular fa-graduation-cap
-      url   : https://scholar.google.com/citations?user=hQcVnaAAAAAJ&hl=en  
 #    - label: "RSS"
 #      icon: "fa fa-rss"
 #      url:  "./atom.xml"
