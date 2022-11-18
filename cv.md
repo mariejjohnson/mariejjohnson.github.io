@@ -12,9 +12,17 @@ marie3.johnson AT umconnect.umt.edu
 **EDUCATION**
 ---------
 Current: 
+<p style="margin-left:10%; margin-right:10%;"><b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana <br>
+	<b>Focus:</b> Leveraging satellite and airborne remote sensing to investigate the resilience of forests to
+	wildfire across the western US.<br>
+	<b>Advisor:</b> Dr. Ashley Ballantyne
+</p>
+
+Current: 
 <p style="margin-left:10%; margin-right:10%;"><b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana</p>
 
-
+Current: 
+<p style="margin-left:10%; margin-right:10%;"><b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana</p>
 
 
 
