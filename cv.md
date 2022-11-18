@@ -14,7 +14,7 @@ print("hello world!")
 
 <div style="background-color: rgb(255,255,255);"> 
 
-&emsp; &emsp;**Ph.D.** student. Systems Ecology.
+**Ph.D.** student. Systems Ecology.
 
 </div>
 
