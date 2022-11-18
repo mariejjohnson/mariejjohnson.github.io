@@ -14,9 +14,7 @@ print("hello world!")
 
 <div style="background-color: rgb(255,255,255);"> 
 
-``python
-print("Yo!")
-``
+&emsp; &emsp;**Ph.D.** student. Systems Ecology.
 
 </div>
 
