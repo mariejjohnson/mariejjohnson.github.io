@@ -10,7 +10,7 @@ marie3.johnson AT umconnect.umt.edu
 [GitHub](https://github.com/mariejohnson)
 
 <body>
-    <div class="container">
+    <div>
         <h1 style="margin-left: 120px;">HTML Indentation</h1>
         <pre style="font-size: 18px;">
                 This paragraph is written to apply indentation on it. In Html
