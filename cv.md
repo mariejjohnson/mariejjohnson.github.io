@@ -4,6 +4,7 @@ title: CV
 header_type: hero
 # subtitle: Ecological Resilience - Wildfire - PhD Student - University of Montana
 ---
+<object data="../assets/MJohnson_CV_Fall_2022_Remove_Phone.pdf" width="1000" height="1000" type='application/pdf'></object>
 **Marie J. Johnson**
 
 marie3.johnson AT umconnect.umt.edu  
@@ -12,7 +13,8 @@ marie3.johnson AT umconnect.umt.edu
 
 **EDUCATION**
 ---------
-Current: &emsp; &emsp;**Ph.D.** student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana
+Current:  
+&emsp; &emsp;**Ph.D.** student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana
 
 		Focus: _‘Leveraging satellite and airborne remote sensing to investigate the resilience of forests to_
 
