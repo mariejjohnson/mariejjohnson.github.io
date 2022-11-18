@@ -15,27 +15,19 @@ Current:
 <p style="margin-left:10%; margin-right:10%;"><b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana <br>
 	<b>Focus:</b> Leveraging satellite and airborne remote sensing to investigate the resilience of forests to
 	wildfire across the western US.<br>
-	<b>Advisor:</b> Dr. Ashley Ballantyne
+	<b>Advisor:</b> Dr. Ashley Ballantyne<br>
+	<b>Coursework:</b> Ecosystem Climatology, Integrated Systems Ecology, Spatial Statistics, Machine Learning, Data Visualization, The Food-Energy-Water Nexus, Science Communication
 </p>
 
 Current: 
 <p style="margin-left:10%; margin-right:10%;"><b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana</p>
 
-Current: 
-<p style="margin-left:10%; margin-right:10%;"><b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana</p>
+March 2017: 
+<p style="margin-left:10%; margin-right:10%;"><b>MSc.</b> Biology. Department of Biology, New Mexico Institute of Mining and Technology<br>
+	<b>Thesis:</b> Bioremediation of the Peroxide Explosive Methyl Ethyl Ketone Peroxide by Horseradish Peroxidase<br>
+<b>Advisor:</b>Dr. Paul Calvert<br>
+<b>Coursework:</b> Ecology, Introduction to GIS, Evolutionary Biology, Microbiology, Statistics, Animal Microbiomes, Applied Bioinformatics, Introduction to Explosives Engineering, Scientific Communication </p>
 
-
-
-**EDUCATION**
----------
-Current:  
-&emsp; &emsp;**Ph.D.** student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation,   University of Montana
-Focus: _‘Leveraging satellite and airborne remote sensing to investigate the resilience of forests to_ _wildfire across the western US.’_
-
-		**Advisor:** Dr. Ashley Ballantyne
-
-
-        Coursework: Ecosystem Climatology, Integrated Systems Ecology, Spatial Statistics, **Machine Learning, **Data Visualization, The Food-Energy-Water Nexus, Science Communication
 
 
         March 2017	**MSc. **Biology. Department of Biology, New Mexico Institute of Mining and Technology ‘_Bioremediation of the Peroxide Explosive Methyl Ethyl Ketone Peroxide by Horseradish Peroxidase’_
