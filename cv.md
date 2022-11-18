@@ -11,13 +11,10 @@ marie3.johnson AT umconnect.umt.edu
 
 <body>
     <div>
-        <h1 style="margin-left: 120px;">HTML Indentation</h1>
-        <pre style="font-size: 18px;">
-                This paragraph is written to apply indentation on it. In Html
+	    	This paragraph is written to apply indentation on it. In Html
             indentation is something that is not needed because browsers automatically
             removes the extra white spaces but if you want to make your text look good
             for the reader then indentation is useful for you.
-        </pre>
     </div>
 </body>
 
