@@ -10,7 +10,6 @@ marie3.johnson AT umconnect.umt.edu
 [ORCiD](https://orcid.org/0000-0002-7705-5670)  
 [GitHub](https://github.com/mariejohnson)
 
-&emsp; words
 **EDUCATION**
 ---------
 Current: &emsp; &emsp;**Ph.D.** student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana
