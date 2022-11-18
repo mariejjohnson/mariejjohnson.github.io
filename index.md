@@ -2,7 +2,7 @@
 layout: default
 title: Marie Johnson
 header_type: hero
-subtitle: PhD Student - Systems Ecology - University of Montana
+subtitle: Ecological Resilience - Wildfire - PhD Student - University of Montana
 ---
 <img src="https://github.com/mariejohnson.png" >
 
