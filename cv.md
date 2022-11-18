@@ -4,7 +4,22 @@ title: CV
 header_type: hero
 # subtitle: Ecological Resilience - Wildfire - PhD Student - University of Montana
 ---
-## Vanilla
+## Marie J. Johnson
+marie3.johnson AT umconnect.umt.edu  
+[ORCiD](https://orcid.org/0000-0002-7705-5670)  
+[GitHub](https://github.com/mariejohnson)
+
+<body>
+    <div class="container">
+        <h1 style="margin-left: 120px;">HTML Indentation</h1>
+        <pre style="font-size: 18px;">
+                This paragraph is written to apply indentation on it. In Html
+            indentation is something that is not needed because browsers automatically
+            removes the extra white spaces but if you want to make your text look good
+            for the reader then indentation is useful for you.
+        </pre>
+    </div>
+</body>
 
 ``python
 print("hello world!")
@@ -18,11 +33,8 @@ print("hello world!")
 
 </div>
 
-**Marie J. Johnson**
 
-marie3.johnson AT umconnect.umt.edu  
-[ORCiD](https://orcid.org/0000-0002-7705-5670)  
-[GitHub](https://github.com/mariejohnson)
+
 
 **EDUCATION**
 ---------
