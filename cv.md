@@ -13,10 +13,11 @@ marie3.johnson AT umconnect.umt.edu
 
 <body>
     <div>
+	    <p style="margin-left:10%; margin-right:10%;">
 	    	This paragraph is written to apply indentation on it. In Html
             indentation is something that is not needed because browsers automatically
             removes the extra white spaces but if you want to make your text look good
-            for the reader then indentation is useful for you.
+            for the reader then indentation is useful for you.</p>
     </div>
 </body>
 
