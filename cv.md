@@ -4,7 +4,7 @@ title: CV
 header_type: hero
 # subtitle: Ecological Resilience - Wildfire - PhD Student - University of Montana
 ---
-## Marie J. Johnson
+## **Marie J. Johnson**  
 marie3.johnson AT umconnect.umt.edu  
 [ORCiD](https://orcid.org/0000-0002-7705-5670)  
 [GitHub](https://github.com/mariejohnson)
@@ -24,6 +24,7 @@ marie3.johnson AT umconnect.umt.edu
 ``python
 print("hello world!")
 ``
+<p>This is a normal paragraph:</p>
 
 ## Flavored V1
 
