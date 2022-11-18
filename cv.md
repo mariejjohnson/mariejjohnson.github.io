@@ -18,7 +18,6 @@ print("hello world!")
 
 </div>
 
-# <object data="/assets/MJohnson_CV_Fall_2022_Remove_Phone.pdf" width="1000" height="1000" type='application/pdf'></object>
 **Marie J. Johnson**
 
 marie3.johnson AT umconnect.umt.edu  
