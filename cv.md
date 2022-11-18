@@ -6,18 +6,14 @@ header_type: hero
 ---
 **Marie J. Johnson**
 
-marie3.johnson AT umconnect.umt.edu
+marie3.johnson AT umconnect.umt.edu  
+[ORCiD](https://orcid.org/0000-0002-7705-5670)  
+[GitHub](https://github.com/mariejohnson)
 
-ORCiD: https://orcid.org/0000-0002-7705-5670
-
-https://github.com/mariejohnson
-
+&emsp; words
 **EDUCATION**
-
-Current:	**Ph.D.** student. Systems Ecology. Department of Ecosystem and Conservation 
-
-
-    Sciences. W.A. Franke College of Forestry & Conservation, University of Montana
+---------
+Current: &emsp; &emsp;**Ph.D.** student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana
 
 		Focus: _‘Leveraging satellite and airborne remote sensing to investigate the resilience of forests to_
 
