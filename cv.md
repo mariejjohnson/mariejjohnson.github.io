@@ -9,6 +9,8 @@ marie3.johnson AT umconnect.umt.edu
 [ORCiD](https://orcid.org/0000-0002-7705-5670)  
 [GitHub](https://github.com/mariejohnson)
 
+<p style="margin-left:10%; margin-right:10%;">This is the text that I want to indent. I want to create a margin on both sides so that it doesn't go the full width of the page. Don't ask me why I want to do this. I just do!</p>
+
 <body>
     <div>
 	    	This paragraph is written to apply indentation on it. In Html
