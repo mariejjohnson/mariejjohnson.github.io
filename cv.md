@@ -36,7 +36,7 @@ May 2012:
 ---------
 Fellowships & Grants
 <p style="margin-left:10%; margin-right:10%;">
-2022    NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST) <br>
+2022<p>NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST)</p>
 2022    Montana Space Grant Consortium, Graduate Fellowship <br>
 2019    National Research Traineeship Ph.D. Fellowship, UM BRIDGES: Bridging the Food-Energy-Water Nexus, University of Montana<br>
 2018    Data Science Fellowship, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara<br>
