@@ -12,39 +12,29 @@ marie3.johnson AT umconnect.umt.edu
 **EDUCATION**
 ---------
 Current: 
-<p style="margin-left:10%; margin-right:10%;"><b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana <br>
+<p style="margin-left:10%; margin-right:10%;">
+	<b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana <br>
 	<b>Focus:</b> Leveraging satellite and airborne remote sensing to investigate the resilience of forests to
 	wildfire across the western US.<br>
 	<b>Advisor:</b> Dr. Ashley Ballantyne<br>
 	<b>Coursework:</b> Ecosystem Climatology, Integrated Systems Ecology, Spatial Statistics, Machine Learning, Data Visualization, The Food-Energy-Water Nexus, Science Communication
 </p>
 
-Current: 
-<p style="margin-left:10%; margin-right:10%;"><b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana</p>
-
 March 2017: 
-<p style="margin-left:10%; margin-right:10%;"><b>MSc.</b> Biology. Department of Biology, New Mexico Institute of Mining and Technology<br>
+<p style="margin-left:10%; margin-right:10%;">
+	<b>MSc.</b> Biology. Department of Biology, New Mexico Institute of Mining and Technology<br>
 	<b>Thesis:</b> Bioremediation of the Peroxide Explosive Methyl Ethyl Ketone Peroxide by Horseradish Peroxidase<br>
 <b>Advisor:</b>Dr. Paul Calvert<br>
 <b>Coursework:</b> Ecology, Introduction to GIS, Evolutionary Biology, Microbiology, Statistics, Animal Microbiomes, Applied Bioinformatics, Introduction to Explosives Engineering, Scientific Communication </p>
 
+May 2012: 
+<p style="margin-left:10%; margin-right:10%;">
+	<b>BSc.</b> Biology. Department of Biology, University of Minnesota-Twin Cities<br>
+<b>Coursework:</b> Coursework: Biochemistry, Genetics, Cell Biology, Organismal Biology, Animal Behavior, Physiology, Physics, General and Organic Chemistry, Calculus, Statistics </p>
 
-
-        March 2017	**MSc. **Biology. Department of Biology, New Mexico Institute of Mining and Technology ‘_Bioremediation of the Peroxide Explosive Methyl Ethyl Ketone Peroxide by Horseradish Peroxidase’_
-
-
-    **Advisor: **Dr. Paul Calvert
-
-
-        Coursework: Ecology, Introduction to GIS, Evolutionary Biology, Microbiology, Statistics, Animal Microbiomes, Applied Bioinformatics, Introduction to Explosives Engineering, Scientific Communication** **
-
-May 2012	**BSc. **Biology. Department of Biology, University of Minnesota-Twin Cities
-
-
-        Coursework: Biochemistry, Genetics, Cell Biology, Organismal Biology, Animal Behavior, Physiology, Physics, General and Organic Chemistry, Calculus, Statistics 
 
 **AWARDS AND MEMBERSHIPS**
-
+---------
 Fellowships & Grants
 
 
