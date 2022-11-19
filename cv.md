@@ -88,3 +88,14 @@ Presentations
 	<li>Doing it in the Dark: Reproductive timing in Hyla chrysoscelis (Cope's gray treefrog) breeding activity. Poster presented at New Mexico Institute of Mining and Technology 125th Anniversary Poster Session (2014, October)</li>
 	</ul> 
 	</p>
+
+**PROFESSIONAL EXPERIENCE**
+---------
+<p style="margin-left:10%; margin-right:10%;">
+	2021-2022 Broadening the use of NASA datasets by the species distribution modeling community. Workshop Personnel, Spatial Analysis Lab, University of Montana<br>
+	2021 Leveraging NEON data to investigate remote sensing of biodiversity variables and scaling implications. Spatial Analysis Lab, University of Montana<br>
+	2017 Estimation of Aboveground Forest Biomass using Tree-Level Models. University of Montana <br>
+	2012 Biodiversity Assessment of a Peruvian Cloud Forest. Amazon Conservation Association <br>
+	2010-2012 Acoustic Communication in Gray Treefrogs. University of Minnesota Twin-Cities<br>
+	2009-2014 Emergency Room Technician, Emergency Department, Regions Hospital. St. Paul, Minnesota
+</p>
