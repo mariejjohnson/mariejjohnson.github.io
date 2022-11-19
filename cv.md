@@ -67,7 +67,7 @@ Publications
 	</p>
 <i>In prep</i>
 <p style="margin-left:10%; margin-right:10%;">
-	Yang, Di; Mitchell, Jessica; Rock, Ryan; Tobalske, Claudine; Hart, Melissa; <b>Johnson, Marie</b> Leveraging NEON data to investigate remote sensing of biodiversity variables and scaling implications<br>
+	Yang, Di; Mitchell, Jessica; Rock, Ryan; Tobalske, Claudine; Hart, Melissa; <b>Johnson, Marie</b> Leveraging NEON data to investigate remote sensing of biodiversity variables and scaling implications<br><br>
 	Authors: Workshop participants, <b>Johnson, Marie</b> Broadening the use of NASA datasets by the species distribution modeling community
 	</p>
 Products
@@ -76,10 +76,15 @@ Products
 	</p>
 Presentations
 <p style="margin-left:10%; margin-right:10%;">
-April, 2022 &nbsp;&nbsp;&nbsp;&nbsp; Analysis of pre and postfire changes in water use efficiency and evapotranspiration. Talk presented at ECOSTRESS Team Meeting<br>
-Johnson, Marie. (2021, December) Estimating Forest Resilience to Wildfire in Northwestern Montana. Talk presented at American Geophysical Union, Fall Meeting<br>
-Johnson, Marie. (2020, December) Forest resilience to fire in the western US: a test case for using satellite metrics to assess spatial and temporal patterns of forest recovery. Poster presented at American Geophysical Union, Fall Meeting<br>
-Johnson, Marie. (2019, December) Women in Science. Talk presented at National Center for Ecological Analysis and Synthesis, Roundtable presentation<br>
-Johnson, Marie. (2016, August) Biodegradation of Peroxide-Based Explosives using Horseradish Peroxidase. Poster presented at New Mexico Institute of Mining and Technology, National Energetic Materials Initiative Poster Session<br>
-Johnson, Marie. (2014, October) Doing it in the Dark: Reproductive timing in Hyla chrysoscelis (Cope's gray treefrog) breeding activity. Poster presented at New Mexico Institute of Mining and Technology 125th Anniversary Poster Session
+	<ul>
+	<li>The influence of vegetation type conversion on evapotranspiration and water use efficiency following wildfire. Poster presented at the Surface Biology and Geology Meeting (2022, October)</li>
+	<li>The Impacts of Postfire Vegetation on Evapotranspiration, Water Use Efficiency and the Evaporative Stress Index. Talk presented at ECOSTRESS Team Meeting (2022, April)
+	</li>
+	<li>Estimating Forest Resilience to Wildfire in Northwestern Montana. Talk presented at American Geophysical Union, Fall Meeting (2021, December)
+	</li>
+	<li>Forest resilience to fire in the western US: a test case for using satellite metrics to assess spatial and temporal patterns of forest recovery. Poster presented at American Geophysical Union, Fall Meeting (2020, December)</li>
+	<li>Women in Science. Talk presented at National Center for Ecological Analysis and Synthesis, Roundtable presentation (2019, December)</li>
+	<li>Biodegradation of Peroxide-Based Explosives using Horseradish Peroxidase. Poster presented at New Mexico Institute of Mining and Technology, National Energetic Materials Initiative Poster Session (2016, August)</li>
+	<li>Doing it in the Dark: Reproductive timing in Hyla chrysoscelis (Cope's gray treefrog) breeding activity. Poster presented at New Mexico Institute of Mining and Technology 125th Anniversary Poster Session (2014, October)</li>
+	</ul> 
 	</p>
