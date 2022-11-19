@@ -13,9 +13,8 @@ marie3.johnson AT umconnect.umt.edu
 ---------
 Current: 
 <p style="margin-left:10%; margin-right:10%;">
-	<b>Ph.D.</b> student. Systems Ecology. Department of Ecosystem and Conservation Sciences. W.A. Franke College of Forestry & Conservation, University of Montana <br>
-	<b>Focus:</b> Leveraging satellite and airborne remote sensing to investigate the resilience of forests to
-	wildfire across the western US.<br>
+	<b>Ph.D.</b> student. Systems Ecology. W.A. Franke College of Forestry & Conservation, University of Montana <br>
+	<b>Focus:</b> Leveraging satellite and airborne remote sensing to estimate ecological resilience to wildfire across the western US.<br>
 	<b>Advisor:</b> Dr. Ashley Ballantyne<br>
 	<b>Coursework:</b> Ecosystem Climatology, Integrated Systems Ecology, Spatial Statistics, Machine Learning, Data Visualization, The Food-Energy-Water Nexus, Science Communication
 </p>
@@ -24,7 +23,7 @@ March 2017:
 <p style="margin-left:10%; margin-right:10%;">
 	<b>MSc.</b> Biology. Department of Biology, New Mexico Institute of Mining and Technology<br>
 	<b>Thesis:</b> Bioremediation of the Peroxide Explosive Methyl Ethyl Ketone Peroxide by Horseradish Peroxidase<br>
-<b>Advisor:</b>Dr. Paul Calvert<br>
+<b>Advisor:</b> Dr. Paul Calvert<br>
 <b>Coursework:</b> Ecology, Introduction to GIS, Evolutionary Biology, Microbiology, Statistics, Animal Microbiomes, Applied Bioinformatics, Introduction to Explosives Engineering, Scientific Communication </p>
 
 May 2012: 
@@ -36,31 +35,16 @@ May 2012:
 **AWARDS AND MEMBERSHIPS**
 ---------
 Fellowships & Grants
-
-
-        2022	NASA Future Investigators in NASA Earth and Space Science and  
-
-
-                    Technology (FINESST)
-
-
-        2022	Montana Space Grant Consortium Graduate Fellowship
-
-
-        2019 	National Research Traineeship Ph.D. Fellowship, UM BRIDGES: Bridging 
-
-
-                    the Food-Energy-Water Nexus, University of Montana
-
-
-        2018	Data Science Fellowship, National Center for Ecological Analysis and  
-
-
-                    Synthesis, University of California, Santa Barbara
+<p style="margin-left:10%; margin-right:10%;">
+2022    NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST) <br>
+2022    Montana Space Grant Consortium, Graduate Fellowship <br>
+2019    National Research Traineeship Ph.D. Fellowship, UM BRIDGES: Bridging the Food-Energy-Water Nexus, University of Montana<br>
+2018    Data Science Fellowship, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara<br>
+</p>
 
 Internships
-
-		2022 	NASA Jet Propulsion Lab, Pasadena, California
+<p style="margin-left:10%; margin-right:10%;">
+2022    NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST) <br>
 
 Professional Organizations
 
