@@ -47,18 +47,11 @@ Internships
 2022    NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST) <br>
 
 Professional Organizations
-
-
-        2018	            Women in Science Task Force, National Center for Ecological
-
-
-                                Analysis and Synthesis, University of California, Santa Barbara
-
-
-        2015-2016	National Energetic Materials Initiative
-
-
-        2011-2014	Emergency Department Unit Practice Council, Regions Hospital 
+<p style="margin-left:10%; margin-right:10%;">
+	2018		Women in Science Task Force, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara
+	2015-2016	National Energetic Materials Initiative
+	2011-2014	Emergency Department Unit Practice Council, Regions Hospital <br>
+	</p>
 
 **PUBLICATIONS, PRESENTATIONS & PRODUCTS**
 
