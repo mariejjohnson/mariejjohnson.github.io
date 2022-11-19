@@ -97,5 +97,19 @@ Presentations
 	2017 Estimation of Aboveground Forest Biomass using Tree-Level Models. University of Montana <br>
 	2012 Biodiversity Assessment of a Peruvian Cloud Forest. Amazon Conservation Association <br>
 	2010-2012 Acoustic Communication in Gray Treefrogs. University of Minnesota Twin-Cities<br>
-	2009-2014 Emergency Room Technician, Emergency Department, Regions Hospital. St. Paul, Minnesota
+	2009-2014 Emergency Room Technician. Emergency Department, Regions Hospital. St. Paul, Minnesota
 </p>
+
+**COMPUTER SKILLS AND LANGUAGES**
+---------
+Programming languages <br>
+Python, R<br>
+
+Software <br>
+Google Earth Engine, ArcGIS, QGIS, Tableau, Paraview, ImageJ, Oriana, Cytoscape
+
+**TEACHING EXPERIENCE**
+---------
+2016        Social Science, New Mexico Institute of Mining and Technology<br>
+2014        Biology, New Mexico Institute of Mining and Technology<br>
+2009-2010    Math Tutor, Century College<br>
