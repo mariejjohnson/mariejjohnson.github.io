@@ -48,13 +48,14 @@ Internships
 
 Professional Organizations
 <p style="margin-left:10%; margin-right:10%;">
-	2018		Women in Science Task Force, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara
-	2015-2016	National Energetic Materials Initiative
-	2011-2014	Emergency Department Unit Practice Council, Regions Hospital <br>
+	2018		Women in Science Task Force, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara<br>
+	2015-2016	National Energetic Materials Initiative<br>
+	2011-2014	Emergency Department Unit Practice Council, Regions Hospital
 	</p>
 
 **PUBLICATIONS, PRODUCTS, PRESENTATIONS**
 ---------
+
 Publications
 <p style="margin-left:10%; margin-right:10%;">
 	Hoylman, Z.H., K.G. Jencso, V. Archer, J. Efta, Z. Holden, A. Ballantyne, & <b>M.J. Johnson.</b> 2021. The influence of hydroclimate and management on forest regrowth across the western U.S. Environmental Research Letters.<br><br>
