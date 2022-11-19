@@ -44,7 +44,7 @@ Fellowships & Grants
 
 Internships
 <p style="margin-left:10%; margin-right:10%;">
-2022    NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST) <br>
+2022    NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST) </p>
 
 Professional Organizations
 <p style="margin-left:10%; margin-right:10%;">
