@@ -53,7 +53,7 @@ Professional Organizations
 	2011-2014	Emergency Department Unit Practice Council, Regions Hospital <br>
 	</p>
 
-**PUBLICATIONS, PRESENTATIONS & PRODUCTS**
+**PUBLICATIONS, PRODUCTS, PRESENTATIONS**
 ---------
 Publications
 <p style="margin-left:10%; margin-right:10%;">
