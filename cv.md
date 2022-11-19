@@ -36,7 +36,7 @@ May 2012:
 ---------
 Fellowships & Grants
 <p style="margin-left:10%; margin-right:10%;">
-2022<p>NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST)</p>
+2022    NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST)<br>
 2022    Montana Space Grant Consortium, Graduate Fellowship <br>
 2019    National Research Traineeship Ph.D. Fellowship, UM BRIDGES: Bridging the Food-Energy-Water Nexus, University of Montana<br>
 2018    Data Science Fellowship, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara<br>
@@ -59,4 +59,17 @@ Publications
 <p style="margin-left:10%; margin-right:10%;">
 	Hoylman, Z.H., K.G. Jencso, V. Archer, J. Efta, Z. Holden, A. Ballantyne, & <b>M.J. Johnson.</b> 2021. The influence of hydroclimate and management on forest regrowth across the western U.S. Environmental Research Letters.<br><br>
 	<b>Johnson M.J.</b>, S.A. Tekmen, & M.A. Bee. 2013. Hyla chrysoscelis (Cope's gray treefrog) breeding activity. Herpetological Review. 44 (3): 495.
+	</p>
+<i>In review</i>
+<p style="margin-left:10%; margin-right:10%;">
+	<b>Johnson M.J.</b> Orchids of Wayqecha. Rapid Color Guides. The Field Museum of Natural History.
+	</p>
+<i>In prep</i>
+<p style="margin-left:10%; margin-right:10%;">
+	Yang, Di; Mitchell, Jessica; Rock, Ryan; Tobalske, Claudine; Hart, Melissa; <b>Johnson, Marie</b> Leveraging NEON data to investigate remote sensing of biodiversity variables and scaling implications<br>
+	Workshop participants, <b>Johnson, Marie</b> Broadening the use of NASA datasets by the species distribution modeling community
+	</p>
+<i>Products</i>
+<p style="margin-left:10%; margin-right:10%;">
+	Yang, Di; Mitchell, Jessica; Rock, Ryan; Tobalske, Claudine; Hart, Melissa; <b>Johnson, Marie</b> (2021): NEON Biodiversity Mapping Tools (Bio_NEON). figshare. Software.
 	</p>
