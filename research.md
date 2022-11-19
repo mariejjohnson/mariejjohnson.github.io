@@ -6,6 +6,4 @@ header_type: hero
 ---
 
 **Mission Wilderness - Montana**
-Wildfire: Crazy Horse (2003) 
-
-{% include video id="aMwzrtX1nTA" provider="youtube" %}
+Wildfire: Crazy Horse (2003)
