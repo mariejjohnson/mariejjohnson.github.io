@@ -98,13 +98,13 @@ navbar:
   - title   : Projects
     child   :
       - title : Fire Recovery Shiny App
-        url   : /current-skin
+        url   : /firerecovery
       - title : Wildfire Boundaries
         url   : /fireboundaries
       - title : AppEEARS
         url   : /appeears
       - title : Fish Passage
-        url   : /current-skin
+        url   : /fishpassage
       - title : Watershed Analysis
         url   : /current-skin
       - title : Summer Heat in Missoula
