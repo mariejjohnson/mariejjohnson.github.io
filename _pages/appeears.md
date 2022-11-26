@@ -2,7 +2,7 @@
 layout: default
 title: "AppEEARS"
 # include_collection: cheatsheet
-permalink: /summerHeat
+permalink: /appeears
 show_breadcrumb: true
 ---
 
