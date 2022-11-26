@@ -106,7 +106,7 @@ navbar:
       - title : Fish Passage
         url   : /fishpassage
       - title : Watershed Analysis
-        url   : /current-skin
+        url   : /watershed
       - title : Summer Heat in Missoula
         url   : /summerHeat   
   - title   : Scholar
