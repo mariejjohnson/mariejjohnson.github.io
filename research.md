@@ -9,8 +9,8 @@ header_type: hero
 Wildfire: Crazy Horse (2003)
 
 <iframe
-    width="640"
-    height="480"
+    width="540"
+    height="380"
     src="https://www.youtube.com/embed/aMwzrtX1nTA"
     frameborder="0"
     allow="autoplay; encrypted-media"
