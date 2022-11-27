@@ -26,3 +26,6 @@ Wildfire: Crazy Horse (2003). Drone imagery at the wildfire site 17 years later.
 >
 </iframe>
 
+I first became interested in research studying accoustic communication in tree frogs when I attended the University of Minnesota in my undergraduate. This results in my first publication and inspired me to go to graduate school.
+
+<img src="https://mariejjohnson.github.io/assets/images/frogs.JPG">
