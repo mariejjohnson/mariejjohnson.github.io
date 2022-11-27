@@ -5,6 +5,9 @@ header_type: hero
 # subtitle: Ecological Resilience - Wildfire - PhD Student - University of Montana
 ---
 
+In my work, I have created an integrated framework to quantify ecosystem resilience based on the recovery of ecosystem function, structure, and composition following wildfires.
+<img src="https://mariejohnson.github.io/assets/images/flowEx_nowhitebackground.png">
+
 **Mission Wilderness - Montana**
 Wildfire: Crazy Horse (2003)
 
