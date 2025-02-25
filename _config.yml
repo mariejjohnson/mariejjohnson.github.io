@@ -93,8 +93,8 @@ navbar:
     url     : /aboutme # /blog/
   - title   : CV
     url     : /cv
-  - title   : CV2
-    url     : /cv_2
+  # - title   : CV2
+  #   url     : /cv_2
   - title   : Research
     url     : /research 
   - title   : Projects
