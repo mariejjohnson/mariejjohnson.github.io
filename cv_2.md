@@ -1,8 +1,8 @@
 # Marie J. Johnson
 
-**Email:** [marie3.johnson@umconnect.umt.edu](mailto:marie3.johnson@umconnect.umt.edu)  
-**ORCiD:** [0000-0002-7705-5670](https://orcid.org/0000-0002-7705-5670)  
-**GitHub:** [mariejohnson](https://github.com/mariejohnson)
+marie3.johnson AT umconnect.umt.edu  
+[ORCiD](https://orcid.org/0000-0002-7705-5670)  
+[GitHub](https://github.com/mariejohnson)
 
 ---
 
